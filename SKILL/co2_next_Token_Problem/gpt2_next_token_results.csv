@@ -1,0 +1,13 @@
+﻿Prompt,Temperature,Rank,Token ID,Candidate Token,Raw Logit,Scaled Logit,Probability (%)
+My name is vansika,1.0,1,13,'.',-40.0708,-40.0708,23.41
+My name is vansika,1.0,2,11,"','",-40.3643,-40.3643,17.46
+My name is vansika,1.0,3,290,' and',-40.4314,-40.4314,16.32
+My name is vansika,1.0,4,422,' from',-43.0555,-43.0555,1.18
+My name is vansika,1.0,5,553,"',""'",-43.146,-43.146,1.08
+My name is vansika,1.0,6,12,'-',-43.2069,-43.2069,1.02
+python next_token_prob.pyArtificial intelligence is changing the world,1.0,1,13,'.',-95.2633,-95.2633,46.08
+python next_token_prob.pyArtificial intelligence is changing the world,1.0,2,11,"','",-96.6647,-96.6647,11.35
+python next_token_prob.pyArtificial intelligence is changing the world,1.0,3,290,' and',-97.5055,-97.5055,4.9
+python next_token_prob.pyArtificial intelligence is changing the world,1.0,4,0,'!',-97.9139,-97.9139,3.25
+python next_token_prob.pyArtificial intelligence is changing the world,1.0,5,286,' of',-98.0168,-98.0168,2.94
+python next_token_prob.pyArtificial intelligence is changing the world,1.0,6,416,' by',-98.0869,-98.0869,2.74
